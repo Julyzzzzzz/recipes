@@ -1,4 +1,6 @@
-eggs
+3 eggs
 milk
 flour
 chocolate
+more milk
+
