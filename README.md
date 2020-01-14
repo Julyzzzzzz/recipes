@@ -1,4 +1,4 @@
 # recipes
 nothing to see here
 
-A collection is misguided recipes
+A collection of misguided recipes
